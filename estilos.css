@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+header{
+    background-color: rebeccapurple;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+.lead{
+    text-align: center;
+}
+footer{
+    background-color: rgb(80, 39, 121);
+    height: 50px;
+    color: white;
+    text-align: left;
+    padding-top: 10px;
+}
